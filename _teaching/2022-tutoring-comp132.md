@@ -2,9 +2,9 @@
 title: "Tutoring on COMP132"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2022-tutoring-comp132
 venue: "University, ECS"
-date: 01-09-2022
+date: 2022
 location: "Wellington"
 ---
 
