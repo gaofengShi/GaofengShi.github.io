@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Master of Computer Science student in the last trimester at Victoria University of Wellington.
+I am a Master of Computer Science student in the last trimester at Victoria University of Wellington.
 
 I am looking for job opportunity as a data analysist, cyber security, and data engineer. My study mainly focus on Artificial Intelligence, System and network security, database engineering.
 
