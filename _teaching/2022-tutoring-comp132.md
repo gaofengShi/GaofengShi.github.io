@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2022-tutoring-comp132
 venue: "ECS, VUW"
-date: 2022
+date: 2022-09-01
 location: "Wellington"
 ---
 
