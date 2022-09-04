@@ -3,7 +3,7 @@ title: "Tutoring on COMP132"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2022-tutoring-comp132
-venue: "University, ECS"
+venue: "ECS, VUW University"
 date: 2022
 location: "Wellington"
 ---
