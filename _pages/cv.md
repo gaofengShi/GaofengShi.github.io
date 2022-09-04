@@ -40,12 +40,12 @@ Work experience
 
 Skills
 ======
-* •	Strong understanding of knowledge with Database engineering, and good skills into SQL.
-* •	Good skills and knowledge with Data mining and machine learning techniques in Artificial Intelligence using Python, Java, R, and C#. 
-* •	Systematic learned and understanding of system and network security, and Digital Forensics. 
-* •	Confident in collaborating with a variety of people, proven through leading teams and management experience, also gained staff awards.   
-* •	Strong ability to learn new skills, shown by good grades gained while studying at Unitec and Victoria University.
-* •	Good experiences and background knowledge at modern energy industry as an Engineer.  
+* Strong understanding of knowledge with Database engineering, and good skills into SQL.
+* Good skills and knowledge with Data mining and machine learning techniques in Artificial Intelligence using Python, Java, R, and C#. 
+* Systematic learned and understanding of system and network security, and Digital Forensics. 
+* Confident in collaborating with a variety of people, proven through leading teams and management experience, also gained staff awards.   
+* Strong ability to learn new skills, shown by good grades gained while studying at Unitec and Victoria University.
+* Good experiences and background knowledge at modern energy industry as an Engineer.  
 
 
 Publications
