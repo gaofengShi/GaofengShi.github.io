@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Gaofeng Shi, Master of Computer Sicence student at VUW"
+title: "Gaofeng Shi, Data and Cyber learner"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
