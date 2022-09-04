@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Tutoring on COMP132"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "University, ECS"
+date: 01-09-2022
+location: "Wellington"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This is a tutor position for first year university student on course COMP132.
 
 Heading 1
 ======
