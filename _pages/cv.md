@@ -40,12 +40,13 @@ Work experience
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* •	Strong understanding of knowledge with Database engineering, and good skills into SQL.
+* •	Good skills and knowledge with Data mining and machine learning techniques in Artificial Intelligence using Python, Java, R, and C#. 
+* •	Systematic learned and understanding of system and network security, and Digital Forensics. 
+* •	Confident in collaborating with a variety of people, proven through leading teams and management experience, also gained staff awards.   
+* •	Strong ability to learn new skills, shown by good grades gained while studying at Unitec and Victoria University.
+* •	Good experiences and background knowledge at modern energy industry as an Engineer.  
+
 
 Publications
 ======
@@ -67,4 +68,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in different slack teams
