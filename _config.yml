@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Gaofeng Shi / Data, Cyber learner"
+title                    : "Gaofeng Shi / MCompSc"
 title_separator          : "-"
 name                     : &name "Gaofeng Shi"
 description              : &description "personal description"
