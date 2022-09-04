@@ -48,11 +48,11 @@ Skills
 * Good experiences and background knowledge at modern energy industry as an Engineer.  
 
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 <!-- Talks
 ======
