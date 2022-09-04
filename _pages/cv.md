@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Diploma in IT, East China University of Science and Technology, 2004
+* GD in Computing, Unitec Institute of Technology, Auckland, 2016
+* MSc in Computer Science, Victoria University of Wellington, 2022 (expected)
 
 Work experience
 ======
