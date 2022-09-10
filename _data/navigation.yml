@@ -1,22 +1,22 @@
 # main links links
 main:
+  - title: "CV"
+    url: /cv/
+    
+  - title: "Teaching and Tutoring"
+    url: /teaching/    
+  
   - title: "Publications"
     url: /publications/
 
   #- title: "Talks"
   #  url: /talks/    
 
-  - title: "Teaching and Tutoring"
-    url: /teaching/    
-    
   #- title: "Portfolio"
    # url: /portfolio/
         
   #- title: "Experience"
   #  url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
     
   - title: "Honours/Awards"
     url: /markdown/
