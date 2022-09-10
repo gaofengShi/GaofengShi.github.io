@@ -1,7 +1,7 @@
 ---
 title: "A Novel Fitness Function for Genetic Programming in Dynamic Flexible Job Shop Scheduling"
 collection: publications
-permalink: https://ieeexplore.ieee.org/document/9870235?denied=
+permalink: /publication/2015-10-01-paper-title-number-1
 excerpt: '2022 IEEE Congress on Evolutionary Computation (CEC)'
 date: 2022-07-18
 venue: 'Journal 1'
