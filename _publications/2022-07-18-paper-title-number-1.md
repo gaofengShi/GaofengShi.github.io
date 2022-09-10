@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-07-18-paper-title-number-1
 excerpt: '2022 IEEE Congress on Evolutionary Computation (CEC)'
 date: 2022-07-18
-venue: 'Publisher: IEEE'
+venue: 'IEEE Xplore: 06 September 2022'
 paperurl: 'https://ieeexplore.ieee.org/document/9870235?denied='
 citation: 'G. Shi, F. Zhang and Y. Mei, "A Novel Fitness Function for Genetic Programming in Dynamic Flexible Job Shop Scheduling," 2022 IEEE Congress on Evolutionary Computation (CEC), 2022, pp. 1-8, doi: 10.1109/CEC55065.2022.9870235.'
 ---
