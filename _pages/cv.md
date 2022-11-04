@@ -13,7 +13,7 @@ Education
 ======
 * Diploma in IT, East China University of Science and Technology, 2004
 * GD in Computing, Unitec Institute of Technology, Auckland, 2016
-* MSc in Computer Science, Victoria University of Wellington, 2022 (expected)
+* MSc in Computer Science, Victoria University of Wellington, 2022
 
 Work experience
 ======
