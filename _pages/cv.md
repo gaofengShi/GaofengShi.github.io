@@ -29,7 +29,7 @@ Work experience
   * Installation, testing and maintenance of electrical lighting and equipment, And manager of related warehouse
 
 
-* Dec 1991 – Dec 2013: Electronic Control system Engineer & Instrument Technician
+* Dec 2003 – Dec 2013: Electronic Control System Engineer & Instrument Technician
   * Dushanzi Petrochemical Branch of PetroChina Company Limited, China
   * Maintenance and troubleshooting in the field of industrial instrumentation and control system
   * Configuration, programming the control system DCS, SCADA and PLC
